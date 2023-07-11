@@ -1,0 +1,157 @@
+    
+#align
+{
+background-color: rgb(249, 250, 247);
+height:60px;   
+border-radius:3px;
+width: 100%;
+}
+.black{
+    background-color: rgb(52, 52, 52);
+    height: 120px;
+    position:relative;
+    border-radius: 2px;
+    top: 1px;
+}
+.img1 
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    left: 520px;
+    
+text-shadow: 10px 10px 25px rgb(241, 133, 10),
+-10px 10px 25px rgb(255, 170, 0),
+-10px -10px 25px rgb(243, 192, 10),
+10px -10px 25px rgb(249, 168, 87);
+}
+.img2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    left: 600px;
+    text-shadow: 10px 10px 25px rgb(10, 241, 18),
+-10px 10px 25px rgb(59, 225, 169),
+-10px -10px 25px rgb(12, 178, 90),
+10px -10px 25px rgb(10, 193, 74);
+}
+.img3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    left: 680px;
+    text-shadow: 10px 10px 25px rgb(241, 133, 10),
+-10px 10px 25px rgb(255, 170, 0),
+-10px -10px 25px rgb(243, 192, 10),
+10px -10px 25px rgb(249, 168, 87);
+
+}
+.img4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    left: 780px;
+    text-shadow: 10px 10px 25px rgb(241, 133, 10),
+-10px 10px 25px rgb(255, 0, 204),
+-10px -10px 25px rgb(243, 192, 10),
+10px -10px 25px rgb(249, 168, 87);
+}
+.img5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+    text-shadow: 10px 10px 25px rgb(191, 11, 208),
+-10px 10px 25px rgb(235, 35, 246),
+-10px -10px 25px rgb(243, 103, 10),
+10px -10px 25px rgb(223, 10, 216);
+}
+.img6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    left: 920px;
+    text-shadow: 10px 10px 25px rgb(10, 222, 241),
+-10px 10px 25px rgb(0, 247, 255),
+-10px -10px 25px rgb(10, 243, 224),
+10px -10px 25px rgb(87, 160, 249);
+}
+.name{
+    color: aliceblue;
+    position: absolute;
+    left: 680px;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-size:28px;
+    text-shadow: 10px 10px 25px rgb(208, 255, 0),
+-10px 10px 25px rgb(234, 255, 0),
+-10px -10px 25px rgb(139, 244, 12),
+10px -10px 25px rgb(5, 246, 121);
+}
+.text{
+    position: absolute;
+    color: aliceblue;
+    left: 600px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+#oneclr{
+    height: 650px;
+    background-color: rgb(85, 180, 243);
+}
+.imgst{
+    height: 420px;
+    width: 750px;
+    position:relative;
+    top: 170px;
+    left: 380px;
+     border-style: outset;
+     border-color: coral;
+}
+.pok{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    position:relative;
+    left: 680px;
+    bottom: 430px;
+    font-size: 35px;
+}
+.summary{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    position:relative;
+    left: 625px;
+    font-size: 28px;
+    bottom: 450px;
+}
+#oneclr2{
+    position:relative;
+    border-radius:2px;
+    height: 650px;
+    background-color: rgb(43, 131, 86);
+}
+.imgst2{
+    height: 420px;
+    width: 750px;
+    position:relative;
+    top: 170px;
+    left: 380px;
+     border-style: outset;
+     border-color: rgb(238, 255, 0);
+}
+.cars{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    position:relative;
+    left: 710px;
+    bottom: 420px;
+    font-size: 35px;
+}
+.summary2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    position:relative;
+    left: 600px;
+    font-size: 28px;
+    bottom: 440px;
+}
